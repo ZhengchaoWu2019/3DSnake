@@ -1,0 +1,16 @@
+body { 
+    margin: 0; 
+}
+
+canvas {
+    width: 100%; 
+    height: 100% 
+}
+
+p{
+    position: absolute;
+}
+.bg
+{
+    background:-webkit-gradient(linear,0% 0%, 0% 100%,from(#A9E3FC),to(#1F293B));
+}
